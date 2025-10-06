@@ -9,7 +9,7 @@ import { promisify } from "util";
 const unlinkAsync = promisify(fs.unlink);
 
 // Telegram bot token
-const BOT_TOKEN = "8327387561:AAGHRmySktpOwkOIvSIJV31a8ACXToLpJRk";
+const BOT_TOKEN = "8327387561:AAE_fUXRo714klG-qLYSjnfy-FlIGYE2KCc";
 
 // Cloudinary configuration
 cloudinary.config({
